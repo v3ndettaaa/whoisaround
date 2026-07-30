@@ -1,0 +1,6 @@
+{
+  "name": "Wi-Fi Network Radar",
+  "description": "An interactive, dark-mode visualization of a Wi-Fi network topology using HTML5 Canvas and D3.js concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
